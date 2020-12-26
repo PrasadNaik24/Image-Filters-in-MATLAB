@@ -1,5 +1,5 @@
 # Image-Filters-in-MATLAB
-
+Feel free to clone, branch, make changes. Suggestions are always welcome :smile:
 --------------------------
 ### Introduction 
 Order Statistic Filters are spatial filters whose response is based on ordering (ranking) the values of the pixels combined in the image area encompasses by the filter. The ranking result determines the response of the filter
